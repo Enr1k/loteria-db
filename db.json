@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": 1,
     "src": "./assets/images/loteria1.png",
     "title": "El gallo",
@@ -111,4 +112,5 @@
     "src": "./assets/images/loteria19.png",
     "title": "La garza",
     "phrase": "Al otro lado del rio tengo mi banco de arena, donde se sienta mi chata pico de garza morena."
-  },
+  }
+]
