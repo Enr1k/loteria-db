@@ -6,9 +6,9 @@
   },
   {
     "id": 2,
-    "src": './assets/images/loteria2.png',
-    "title": 'El diablito',
-    "phrase": 'Portate bien cuatito, si no te lleva el coloradito.'
+    "src": "./assets/images/loteria2.png",
+    "title": "El diablito",
+    "phrase": "Portate bien cuatito, si no te lleva el coloradito."
   },
   {
     "id": 3,
