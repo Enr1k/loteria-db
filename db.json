@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "src": "./assets/images/loteria1.png",
+      "src": "https://res.cloudinary.com/enr1k/image/upload/v1587693702/loteria1_o8gaxa.png",
       "title": "El gallo",
       "phrase": "El que la canto a San Pedro."
     },
@@ -14,13 +14,13 @@
     },
     {
       "id": 3,
-      "src": "./assets/images/loteria3.png",
+      "src": "https://res.cloudinary.com/enr1k/image/upload/v1587693613/loteria3_nnafxg.png",
       "title": "La dama",
       "phrase": "Puliendo el paso, por toda la calle real."
     },
     {
       "id": 4,
-      "src": "./assets/images/loteria4.png",
+      "src": "https://res.cloudinary.com/enr1k/image/upload/v1587693615/loteria4_ddrdhq.png",
       "title": "El catrin",
       "phrase": "Don ferruco en la alameda, su baston queria tirar."
     },
