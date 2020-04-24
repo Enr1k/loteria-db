@@ -114,42 +114,6 @@
       "title": "La garza",
       "phrase": "Al otro lado del rio tengo mi banco de arena, donde se sienta mi chata pico de garza morena."
     },
-    {
-      "id": 20,
-      "src": "https://res.cloudinary.com/enr1k/image/upload/v1587693611/loteria20_x6uc5l.png",
-      "title": "El pajaro",
-      "phrase": "Tu me traes a puros brincos, como pajaro en la rama."
-    },
-    {
-      "id": 21,
-      "src": "https://res.cloudinary.com/enr1k/image/upload/v1587693612/loteria21_yew0yl.png",
-      "title": "La mano",
-      "phrase": "La mano de un criminal. La mano de un escribano."
-    },
-    {
-      "id": 22,
-      "src": "https://res.cloudinary.com/enr1k/image/upload/v1587693611/loteria22_outgef.png",
-      "title": "La bota",
-      "phrase": "Una bota igual que l'otra. Botala si no te sirve."
-    },
-    {
-      "id": 23,
-      "src": "https://res.cloudinary.com/enr1k/image/upload/v1587693612/loteria23_d7sfci.png",
-      "title": "La luna",
-      "phrase": "El farol de los enamorados."
-    },
-    {
-      "id": 24,
-      "src": "https://res.cloudinary.com/enr1k/image/upload/v1587693612/loteria24_rl61w0.png",
-      "title": "El cotorro",
-      "phrase": "cotorro cotorro saca la pata, y empiezame a platicar."
-    },
-    {
-      "id": 25,
-      "src": "https://res.cloudinary.com/enr1k/image/upload/v1587693612/loteria25_tyys9f.png",
-      "title": "El borracho",
-      "phrase": "Ah! que borracho tan necio, ya no lo puedo aguantar."
-    },
   ],
   "profile": {
     "name": "loteria-db"
